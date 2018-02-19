@@ -2,6 +2,8 @@
 
 Kelp Vim colorscheme plugin for [PaperColor Theme](https://github.com/NLKNguyen/papercolor-theme)
 
+![Kelp colorscheme screenshot in Ruby](https://user-images.githubusercontent.com/582461/36364927-ec101814-14fb-11e8-94fe-b127092ef1ac.png)
+
 ## Installation
 
 ### Manually
